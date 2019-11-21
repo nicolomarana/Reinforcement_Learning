@@ -1,0 +1,7 @@
+References:
+
+https://www.davidsilver.uk/teaching/
+http://incompleteideas.net/book/RLbook2020.pdf
+https://www.edx.org/course/reinforcement-learning-explained-2
+
+https://courses.edx.org/certificates/3bf254b689934a23be7907761658e54c
